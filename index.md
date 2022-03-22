@@ -10,11 +10,6 @@ published: true
 		<h2>Te damos la Bienvenida a Nuestro canal<br />
 		#Dominicanos ven y disfruta con nosotros!!!</h2>
 	</header>
-	<ul class="icons major">
-		<li><span class="icon fa-camera-retro"><span class="label">Chat Seguro</span></span></li>
-		<li><span class="icon fa-refresh"><span class="label">Operadores todo el tiempo</span></span></li>
-		<li><span class="icon fa-cloud"><span class="label">Bots de Servicios</span></span></li>
-	</ul>
 </section>
 
 <!-- Two -->
