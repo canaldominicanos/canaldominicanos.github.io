@@ -26,7 +26,7 @@ published: true
 			<div class="image"><img src="avatar.jpg" alt="" /></div>
 			<div class="content">
 				<h3>Dev1ls</h3>
-				<p>Co-Fundador del canal, veterano dee irc, amigo dee _u2pop_ y ayudante de operadores del canal #Dominicanos.</p>
+				<p>Co-Fundador del canal, veterano de irc, ayudante de Moderadores del canal #Dominicanos.</p>
 			</div>
 		</section>
 		<section class="spotlight">
