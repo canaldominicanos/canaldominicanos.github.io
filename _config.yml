@@ -1,9 +1,9 @@
 # Site settings
-title: Jekyll fractal
-email: youremailaddress@gmail.com
-description: Just a simple, single page responsive template brought to you by HTML5 UP.
-baseurl: "/fractal-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site e.g. http://yvesespinosa.com
+title: Dominicanos 🇩🇴 
+email: canaldominicanosgmail.com
+description: Dominicanos hasta la tambora 🇩🇴 
+# baseurl: "/fractal-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "canaldominicanos.github.io" # the base hostname & protocol for your site e.g. http://yvesespinosa.com
 download_button_url: ""
 
 # Social settings
