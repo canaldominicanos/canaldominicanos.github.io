@@ -40,15 +40,6 @@ published: true
 				<h3>GuachiM4n</h3>
 				<p>Co-Fundador del canal #Dominicanos, hacker de profesion, Creador dee ChatUnivision.org y es el que vela por que todos nuestros chats sean seguros.. :)</p>
 			</div>
-		</section>
-		<section class="special">
-			<ul class="icons labeled">
-				<li><span class="icon fa-camera-retro"><span class="label">Ipsum lorem accumsan</span></span></li>
-				<li><span class="icon fa-refresh"><span class="label">Sed vehicula elementum</span></span></li>
-				<li><span class="icon fa-cloud"><span class="label">Elit fusce consequat</span></span></li>
-				<li><span class="icon fa-code"><span class="label">Lorem nullam tempus</span></span></li>
-				<li><span class="icon fa-desktop"><span class="label">Adipiscing amet sapien</span></span></li>
-			</ul>
-		</section>
+		</section>	
 	</div>
 </section>
