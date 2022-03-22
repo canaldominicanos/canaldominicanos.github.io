@@ -30,7 +30,7 @@ published: true
 			</div>
 		</section>
 		<section class="spotlight">
-			<div class="image"><img src="robocop.jpeg" alt="" /></div>
+			<div class="image"><img src="guachiman.jpg" alt="" /></div>
 			<div class="content">
 				<h3>GuachiM4n</h3>
 				<p>Co-Fundador del canal #Dominicanos, hacker de profesion, Creador dee ChatUnivision.org y es el que vela por que todos nuestros chats sean seguros.. :)</p>
