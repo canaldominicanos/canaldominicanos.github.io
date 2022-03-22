@@ -10,7 +10,7 @@ published: true
 		<h2>Te damos la Bienvenida a Nuestro canal<br />
 		#Dominicanos ven y disfruta con nosotros!!!</h2>
 		
-		<h1>AVISO:</h1>
+		<h2>AVISO DEL STAFF DE #DOMINICANOS:</h2>
       <h2> Quieres ser operador de #Dominicanos envianos un email con tu Nick y Porque crees que debes ser operador al correo <a href="mailto:canaldominicanos@gmail.com">canaldominicanos@gmail.com</a></h2>
 	</header>
 </section>
