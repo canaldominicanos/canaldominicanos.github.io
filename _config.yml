@@ -4,7 +4,7 @@ email: canaldominicanosgmail.com
 description: Dominicanos hasta la tambora 🇩🇴 
 # baseurl: "/fractal-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "app.canaldominicanos.online" # the base hostname & protocol for your site e.g. http://yvesespinosa.com
-download_button_url: "https://kiwiirc.com/nextclient/irc.chatzona.org/?#dominicanos"
+download_button_url: "https://irc.activao.com/?#dominicanos"
 
 # Social settings
 500px_url:
