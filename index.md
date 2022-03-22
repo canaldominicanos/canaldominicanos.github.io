@@ -9,6 +9,9 @@ published: true
 	<header class="major">
 		<h2>Te damos la Bienvenida a Nuestro canal<br />
 		#Dominicanos ven y disfruta con nosotros!!!</h2>
+		
+		<p>AVISO:<br />
+       Quieres ser operador de #Dominicanos envianos un email con tu Nick y Porque crees que debes ser operador al correo <a mailto="canaldominicanos@gmail.com">canaldominicanos@gmail.com</a></p>
 	</header>
 </section>
 
