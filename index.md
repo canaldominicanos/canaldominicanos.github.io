@@ -19,7 +19,7 @@ published: true
 			<div class="image"><img src="u2pop.jpg" alt="" /></div>
 			<div class="content">
 				<h3>_u2pop_</h3>
-				<p>Fundador del canal, veterano de irc de la famosa red de IRC Undernet.</p>
+				<p>Fundador del canal, veterano de irc de la famosa red Undernet.</p>
 			</div>
 		</section>
 		<section class="spotlight">
