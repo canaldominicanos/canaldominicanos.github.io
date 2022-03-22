@@ -19,21 +19,21 @@ published: true
 			<div class="image"><img src="u2pop.jpg" alt="" /></div>
 			<div class="content">
 				<h3>_u2pop_</h3>
-				<p>Fundador del canal, veterano de irc de la famosa red Undernet.</p>
+				<p>Fundador del canal, veterano de irc desde la famosa red Undernet.</p>
 			</div>
 		</section>
 		<section class="spotlight">
 			<div class="image"><img src="avatar.jpg" alt="" /></div>
 			<div class="content">
 				<h3>Dev1ls</h3>
-				<p>Co-Fundador del canal, veterano dee irc, amigo dee _u2pop_ y ayudante de operadores del canal #Dominicanos y Co-Fundador de ChatUnivision.</p>
+				<p>Co-Fundador del canal, veterano dee irc, amigo dee _u2pop_ y ayudante de operadores del canal #Dominicanos.</p>
 			</div>
 		</section>
 		<section class="spotlight">
 			<div class="image"><img src="guachiman.jpg" alt="" /></div>
 			<div class="content">
 				<h3>GuachiM4n</h3>
-				<p>Co-Fundador del canal #Dominicanos, hacker de profesion, Creador dee ChatUnivision.org y es el que vela por que todos nuestros chats sean seguros.. :)</p>
+				<p>Co-Fundador del canal #Dominicanos, hacker de profesion, es el que vela por que todos nuestros chats sean seguros.. :)</p>
 			</div>
 		</section>	
 	</div>
