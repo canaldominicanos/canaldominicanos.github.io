@@ -12,30 +12,13 @@ published: true
 	</header>
 </section>
 
-<section class="special">
+<section id="one" class="wrapper style2 special">
+	<header class="major">
 		
 		<h3>AVISO DEL STAFF</h3>
       <p> Quieres ser operador de #Dominicanos envianos un email con tu Nick y Porque crees que debes ser operador al correo <a href="mailto:canaldominicanos@gmail.com">canaldominicanos@gmail.com</a></p>
 		
-		<h2> Tambien puedes llenar el siguiente formulario: </h2>
-	
-		
-		<form
-  action="https://formspree.io/f/myyopqlw"
-  method="POST"
->
-  <label>
-    Email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Tu Nick y Comentario:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
-	
+	</header>
 </section>
 
 <!-- Two -->
