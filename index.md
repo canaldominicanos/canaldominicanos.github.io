@@ -11,13 +11,14 @@ published: true
 		#Dominicanos ven y disfruta con nosotros!!!</h2>
 	</header>
 </section>
+
+<section class="special">
 		
 		<h3>AVISO DEL STAFF</h3>
       <p> Quieres ser operador de #Dominicanos envianos un email con tu Nick y Porque crees que debes ser operador al correo <a href="mailto:canaldominicanos@gmail.com">canaldominicanos@gmail.com</a></p>
 		
 		<h2> Tambien puedes llenar el siguiente formulario: </h2>
-
-		<section class="special">
+	
 		
 		<form
   action="https://formspree.io/f/myyopqlw"
@@ -34,6 +35,7 @@ published: true
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
+	
 </section>
 
 <!-- Two -->
