@@ -9,6 +9,7 @@ published: true
 	<header class="major">
 		<h2>Te damos la Bienvenida a Nuestro canal<br />
 		#Dominicanos ven y disfruta con nosotros!!!</h2>
+	</header>
 </section>
 		
 		<h3>AVISO DEL STAFF</h3>
@@ -33,7 +34,6 @@ published: true
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
-	</header>
 </section>
 
 <!-- Two -->
