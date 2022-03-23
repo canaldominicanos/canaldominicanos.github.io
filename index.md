@@ -29,20 +29,20 @@ published: true
   /* customize formbutton below*/     
   formbutton("create", {
     action: "https://formspree.io/f/myyopqlw",
-    title: "How can we help?",
+    title: "Tienes alguna Pregunta para el Staff?",
     fields: [
       { 
         type: "email", 
         label: "Email:", 
         name: "email",
         required: true,
-        placeholder: "your@email.com"
+        placeholder: "tuemail@correo.comm"
       },
       {
         type: "textarea",
         label: "Message:",
         name: "message",
-        placeholder: "What's on your mind?",
+        placeholder: "Que tienes que compartirnos?",
       },
       { type: "submit" }      
     ],
